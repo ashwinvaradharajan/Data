@@ -1,4 +1,4 @@
-year,month,carrier,carrier_name,airport,airport_name,arr_flights,arr_del15,carrier_ct, weather_ct,nas_ct,security_ct,late_aircraft_ct,arr_cancelled,arr_diverted, arr_delay, carrier_delay,weather_delay,nas_delay,security_delay,late_aircraft_delay
+year,month,carrier,carrier_name,airport,airport_name,arr_flights,arr_del15,carrier_ct,weather_ct,nas_ct,security_ct,late_aircraft_ct,arr_cancelled,arr_diverted,arr_delay,carrier_delay,weather_delay,nas_delay,security_delay,late_aircraft_delay
 2008,1,9E,Pinnacle Airlines Inc.,ABE,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",85,29,11.67,0,9.26,0,8.08,5,0,1150,404,0,270,0,476
 2008,1,9E,Pinnacle Airlines Inc.,ALB,"Albany, NY: Albany International",51,15,5.34,0,6.79,0,2.87,6,0,475,220,0,170,0,85
 2008,1,9E,Pinnacle Airlines Inc.,ALO,"Waterloo, IA: Waterloo Regional",27,4,1,0,2,0,1,7,0,79,18,0,42,0,19
